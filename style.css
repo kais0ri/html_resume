@@ -1,0 +1,237 @@
+body{
+    background-image: url("clouds.jpg");
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+  }
+  
+  .image{
+    position: relative;
+    left: 117.5vh;
+  }
+  
+  .image img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .name {
+    position: relative;
+    left: 65vh;
+    top: -22vh
+  }
+  .line{
+    position: relative;
+    top:7.5vh;
+    right: -0.5vh
+  }
+  
+  .cell{
+    position: relative;
+    font-size: 17px;
+    left: 65vh;
+    bottom: 22.5vh
+  }
+  
+  .email{
+    position: relative;
+    bottom:24.2vh;
+    font-size: 17px;
+    left: 65vh;
+  }
+  
+  .desc{
+    width:500px;
+    height: 200px;
+    font-family: 'Andada Pro', serif;
+    position: relative;
+    bottom: 25vh;
+    font-size: 17px;
+    left:65vh
+  }
+  
+  .educ{
+    font-size: 17px;
+    position: relative;
+    top:0.3vh
+  }
+  
+  .vl{
+    height:100px;
+    border-left:1px solid black;
+    position: relative;
+    left:10vh;
+    bottom: 3.5vh
+  }
+  
+  .sub{
+    font-size: 21px;
+    position: relative;
+    bottom: 17vh;
+    left:12vh
+  }
+  
+  .maj{
+    position: relative;
+    bottom: 18vh;
+    left:12vh
+  }
+  
+  .min{
+    position: relative;
+    left:12vh;
+    bottom: 19vh
+  }
+  
+  .edu{
+    position: relative;
+    bottom: 35vh;
+    left:80vh
+  }
+  
+  .txt{
+    width: 600px
+  }
+  
+  .vl1{
+    height:100px;
+    border-left:1px solid black;
+    position: relative;
+    left:7vh;
+    bottom: 3.5vh
+  }
+  
+  .os{
+    position: relative;
+    font-size: 21px;
+    bottom:17vh;
+    left:9vh
+  }
+  
+  .txt{
+    position: relative;
+    bottom:18.5vh;
+    left:9vh
+  }
+  
+  .cs{
+    position: relative;
+    bottom:19vh;
+    left:9vh;
+    font-size: 21px;
+  }
+  
+  .txt2{
+    position: relative;
+    bottom:20.5vh;
+    left:9vh
+  }
+  
+  .sk{
+    position: relative;
+    top:0.2vh
+  }
+  
+  .skills{
+    position: relative;
+    bottom: 50vh;
+    left:83vh
+  }
+  
+  .vl2{
+    height:100px;
+    border-left:1px solid black;
+    position: relative;
+    left:10vh;
+    bottom: 3.5vh
+  }
+  
+  .job_place1{
+    position: relative;
+    font-size: 21px;
+    bottom:17vh;
+    left:11vh
+  }
+  
+  .position1{
+    position: relative;
+    font-family: 'Zen Antique', serif;
+    bottom: 21.5vh;
+    left: 40.5vh;
+  }
+  
+  .list1{
+    position: relative;
+    bottom:22vh;
+    left:9vh
+  }
+  
+  .job_place2{
+    position: relative;
+    font-size: 21px;
+    bottom:22vh;
+    left:11vh
+  }
+  
+  .position2{
+    position: relative;
+    font-family: 'Zen Antique', serif;
+    bottom: 26.5vh;
+    left: 29vh;
+  }
+  
+  .list2{
+    position: relative;
+    bottom:27vh;
+    left:9vh
+  }
+  
+  .exp{
+    position: relative;
+    top:0.2vh
+  }
+  
+  .experience{
+    position: relative;
+    bottom: 67vh;
+    left:80vh
+  }
+  
+  .vl3{
+    height:100px;
+    border-left:1px solid black;
+    position: relative;
+    left:9vh;
+    bottom: 3.5vh
+  }
+  
+  .hobbies{
+    position: relative;
+    bottom: 16.2vh;
+    left:11vh
+  }
+  
+  .hob{
+    position: relative;
+    bottom: 90vh;
+    left:81vh
+  }
+  
+  .vl4{
+    height:50px;
+    border-left:1px solid black;
+    position: relative;
+    left:11vh;
+    bottom: 3.5vh
+  }
+  
+  .reference{
+    position: relative;
+    bottom: 10.8vh;
+    left:12.5vh
+  }
+  
+  .ref{
+    position: relative;
+    bottom: 100vh;
+    left:79vh
+  }
